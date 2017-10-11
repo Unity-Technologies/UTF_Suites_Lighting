@@ -1,0 +1,3 @@
+[submodule "Assets/UTF_Core"]
+	path = Assets/UTF_Core
+	url = http://github.com/Unity-Technologies/UTF_Core
